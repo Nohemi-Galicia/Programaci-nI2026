@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio1_calculadora", "desafio1_calculadora\desafio1_calculadora.csproj", "{2597AF9B-ED44-4083-BE52-B262D16E85F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio2", "desafio2\desafio2.csproj", "{2702A938-5B4C-4112-A703-67642823303C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio3", "desafio3\desafio3.csproj", "{7FE7BEA6-3E13-4185-9500-7ECD4636E513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2597AF9B-ED44-4083-BE52-B262D16E85F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2597AF9B-ED44-4083-BE52-B262D16E85F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2597AF9B-ED44-4083-BE52-B262D16E85F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2597AF9B-ED44-4083-BE52-B262D16E85F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2702A938-5B4C-4112-A703-67642823303C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2702A938-5B4C-4112-A703-67642823303C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2702A938-5B4C-4112-A703-67642823303C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2702A938-5B4C-4112-A703-67642823303C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE7BEA6-3E13-4185-9500-7ECD4636E513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE7BEA6-3E13-4185-9500-7ECD4636E513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE7BEA6-3E13-4185-9500-7ECD4636E513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE7BEA6-3E13-4185-9500-7ECD4636E513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

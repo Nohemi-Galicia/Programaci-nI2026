@@ -1,0 +1,14 @@
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\bin\Debug\net10.0\desafio_correos.exe
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\bin\Debug\net10.0\desafio_correos.deps.json
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\bin\Debug\net10.0\desafio_correos.runtimeconfig.json
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\bin\Debug\net10.0\desafio_correos.dll
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\bin\Debug\net10.0\desafio_correos.pdb
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\obj\Debug\net10.0\desafio_correos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\obj\Debug\net10.0\desafio_correos.AssemblyInfoInputs.cache
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\obj\Debug\net10.0\desafio_correos.AssemblyInfo.cs
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\obj\Debug\net10.0\desafio_correos.csproj.CoreCompileInputs.cache
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\obj\Debug\net10.0\desafio_correos.dll
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\obj\Debug\net10.0\refint\desafio_correos.dll
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\obj\Debug\net10.0\desafio_correos.pdb
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\obj\Debug\net10.0\desafio_correos.genruntimeconfig.cache
+C:\Users\Andris Galicia\OneDrive\Escritorio\tarea7_programacionI\tarea7_programacionI\desafio_correos\obj\Debug\net10.0\ref\desafio_correos.dll
